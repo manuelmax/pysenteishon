@@ -2,24 +2,18 @@ pysenteishon
 ============
 
 Control your presentations with the swipe of your finger!
+Fork realizado de https://github.com/edvm/pysenteishon, el autor es Emiliano Dalla Verde Marcozzi @edvm,
+la diferencia es que este funciona con Python 2.7, el original necesita Pytho 2
 
 Install
 =======
-
-From PyPi
-----------
-
-::
-
-   pip install pysenteishon
-   pysenteishon
 
 From GitHub
 -----------
 
 ::
-
-   git clone https://github.com/edvm/pysenteishon
+    
+   git clone https://github.com/manuelmax/pysenteishon
    cd pysenteishon
    python pysenteishon/app.py
 
@@ -61,3 +55,5 @@ Options
      -p PORT, --port PORT  Listen on port
      -a user password, --auth user password
                            Basic auth
+
+
